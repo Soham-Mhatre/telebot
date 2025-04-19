@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+ENV/
+*.env
+
+# Firebase Key (Don't push this)
+serviceAccountKey.json
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Render deploy/build files (if any)
+build/
+*.log
+
+# dotenv
+.env

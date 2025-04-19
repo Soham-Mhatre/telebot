@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+python-dotenv
+requests
+firebase-admin
+google-generativeai
